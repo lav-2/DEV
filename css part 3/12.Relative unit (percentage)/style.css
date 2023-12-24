@@ -1,0 +1,16 @@
+h1{
+    border: 2px solid black;
+    width: 50%;
+}
+#outer{
+    height: 300px;
+    width: 300px;
+    background-color: blue;
+}
+#inner{
+    height: 100px;
+    width: 100px;
+    background-color: orange;
+    margin-left: 50%;
+    /* Hence it is % that is 50% is respect to parent size that is here parent */
+}

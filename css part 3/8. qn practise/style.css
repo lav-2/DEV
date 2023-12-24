@@ -1,0 +1,25 @@
+#outer{
+    height:200;
+    width: 70px;
+    border: 2px solid black;
+  
+
+}
+
+.ram{
+    height: 50px;
+    width: 50px;
+    border: 2px solid black;
+    margin: 10px;
+    border-radius: 50%;
+}
+
+#red{
+    background-color: red;
+}
+#blue{
+    background-color: blue;
+}
+#yellow{
+    background-color: rgb(34, 207, 120);
+}

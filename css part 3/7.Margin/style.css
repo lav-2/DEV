@@ -1,0 +1,29 @@
+#rangilla{
+    border: 5px dotted black;
+    margin: 50px;
+    /* if we write only margin than it gives margin in all direction. */
+    /* This helps to margin between two model box. */
+    
+}
+
+#john{
+    border: 10px solid red;
+    margin-top: 20px;
+    margin-left:50px;
+}
+/* NOte : margin provides gap between the two model box. */
+
+
+
+
+
+button{
+    border: 5px solid black;
+}
+h3{
+    border: 5px solid rgb(195, 44, 44);
+    /* margin shorthand */
+/* Using all margin at once Note: it always run in clockwise direction */
+    margin-top:50px 90px 30px 90px;
+  
+}

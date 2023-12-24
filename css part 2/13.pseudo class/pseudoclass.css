@@ -1,0 +1,45 @@
+h2:hover{
+    color: red;
+    background-color: aqua;
+}
+button:hover{
+    background-color: blue;
+   /* color: pink;  */
+    
+}
+#ram:hover{
+    background-color: orange;
+    color: red;
+}
+h2{
+    display: inline;
+}
+/* pseudo class : active */
+/* When clicking properties changed. */
+/* Note we have use to necessary selector. */
+#shayam>button:active{
+   color: red;
+   font-weight: bold;
+    background-color: rgb(193, 129, 32);
+}
+/* pseudoclass checked. */
+/* using sibling descendant */
+input[type="radio"]:checked+label {
+    font-weight: bold;
+    color: red;
+    background-color: aqua;
+
+}
+
+
+
+/* pseudoclass nth element. */
+div:nth-of-type(2n){
+    color: red;
+    background-color: orange;
+}
+
+div:nth-of-type(3){
+    color: rgb(125, 100, 56);
+    background-color: brown;
+}

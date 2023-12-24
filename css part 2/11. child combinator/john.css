@@ -1,0 +1,5 @@
+/* Child combinator select the element direct child  */
+span>p{
+    color: red;
+}
+/* So is selects only element of direct p but not p under ul */

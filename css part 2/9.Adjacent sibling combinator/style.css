@@ -1,0 +1,9 @@
+/* sibling combinator */
+p+h3{
+    text-decoration: red underline;
+}
+/* Sibling combinator is used when they are at same level and have to  used just below after other. */
+
+.upvote+button{
+    background-color: cornflowerblue;
+}

@@ -1,0 +1,13 @@
+/* important is high value than inline element  */
+/* So its property never can be changed. */
+h3{
+    background-color: antiquewhite !important;
+    color: red !important;
+}
+#rama{
+    color: blue;
+    background-color: yellow;
+}
+
+/* Since important is used even id can't changed its background color and color. */
+

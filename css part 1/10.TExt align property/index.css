@@ -1,0 +1,13 @@
+h1{
+    text-align: center;
+    border: solid;
+    width: 50%;
+}
+h3{
+  text-align:right;  
+}
+/* In text align :justify (left and right horizontal become same) */
+p{
+    text-align:justify;
+    width: 50%;
+}

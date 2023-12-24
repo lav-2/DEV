@@ -1,0 +1,21 @@
+#outer{
+    height:400px ;
+    width: 400px;
+    border: 2px solid black;
+    font-size: 20px;
+}
+
+#inner{
+    height: 100px;
+    width: 100px;
+    background-color: rgb(231, 241, 40);
+    font-size: 1.5em;
+    /* It means inner font is 1.5 times than outer font. */
+}
+button{
+    font-size: 50px;
+    border-radius: 15px;
+    border: 5px solid green;
+    padding-right: 1em;
+    /* It means padding is parent relation to font-size 1 em means padding in right side is 50px. */
+}

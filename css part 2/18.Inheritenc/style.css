@@ -1,0 +1,11 @@
+div{
+    background-color: rgb(235, 198, 128);
+    color: red;
+}
+
+/* since the button color and background isnot inehereting properties So we have to use keyword inherit */
+/* note since all the properties is not inherited directly. */
+button{
+    color: inherit;
+    background-color: inherit;
+}

@@ -1,0 +1,13 @@
+/* descendant selector */
+.post a {
+    color: red;
+    background-color: blue;
+}
+
+/* It means under post class there is ancher tag and select ancher tag */
+/* Ancher tag descendant of post class */
+
+nav ul li {
+    color: red;
+}
+/* This is also an another  example of descendant */

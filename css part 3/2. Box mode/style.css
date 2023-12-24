@@ -1,0 +1,10 @@
+/* Box model */
+/* 1. height */
+/* 2.width */
+div{
+    height: 200px;
+    width:500px;
+   background-color:pink;
+
+}
+

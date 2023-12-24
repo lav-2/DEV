@@ -1,0 +1,29 @@
+/* Cascading of css */
+p{
+    color: red;
+}
+p{
+    color: aqua;
+}
+/* Cascading of css say that if both element is same the the css property which is written later shall be applied. */
+
+
+/* cascading specificity */
+h2{
+    color:orange;
+    background-color: yellow;
+
+}
+
+.ram:hover{
+    background-color: blue;
+    color: aqua;
+}
+
+
+.ram{
+    background-color: rgb(16, 237, 34);
+    color: red;
+}
+
+/* Since cascading specificity of .ram is high so .ram is displayed inside of h2 */

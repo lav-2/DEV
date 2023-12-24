@@ -1,0 +1,15 @@
+div{
+    height: 200px;
+    width: 200px;
+    background-color: greenyellow;
+    border: 2px solid black;
+    margin: 2px;
+    /* display: inline; */
+    /* Hence while using inline (block element changes to inline element but some of the properties of css cant be applie eg height, width etc) */
+    /* so to inline and also use all css properties we can use display: inline-block */
+    display: inline-block;
+}
+#ram{
+    /* It is used to remove the elements. */
+    display: none;
+}

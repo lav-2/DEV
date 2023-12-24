@@ -1,0 +1,15 @@
+h2{
+    color: red;
+}
+/* pseudo element */
+h2::first-letter{
+    color: blue;
+}
+
+p::first-line{
+    background-color: orange;
+}
+
+p::selection{
+    color: aqua;
+}

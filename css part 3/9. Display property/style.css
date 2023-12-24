@@ -1,0 +1,18 @@
+/* Display:inline\ block */
+h2{
+    color: red;
+    background-color: blue;
+    display:inline;
+}
+#john{
+    border: 2px solid black;
+   
+}
+span{
+    height: 200px;
+    width: 700px;
+    margin: 70px;
+    /* hence in span margin is only working not height and width. */
+    /* Note : INline elememt ignore  most of the properties in css eg margin , height, width etc. */
+   
+}

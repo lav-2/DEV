@@ -1,0 +1,11 @@
+/* best practise for div */
+#myId p{
+    color: red;
+}
+
+/* Another best way of writing in div */
+ div[id="Ram"] h2 {
+    text-decoration:double underline;
+ }
+
+ /* Dont directly write only div. */

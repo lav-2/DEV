@@ -1,0 +1,9 @@
+div{
+    font-size: 2em;
+}
+/* In this case font-size goes on incresing first div font-size becomes 2 times than section and second font-size becomes 2 times than first  */
+/* This is called snow ball effect  */
+/* So to avoid we use rem instead of em. */
+
+
+

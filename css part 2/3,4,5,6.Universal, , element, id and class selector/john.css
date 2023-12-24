@@ -1,0 +1,31 @@
+
+/* Universal selector */
+*{
+    font-family:'Courier New';
+  
+}
+/* It is used for all the content in the document. */
+
+
+/* element selector */
+h1,h3{
+  color:#b92b27 ;
+}
+
+
+/* Id selector */
+#login,#signup{
+    background-color: white;
+}
+#usn{
+    background-color: red;
+}
+#psp{
+    background-color: black;
+}
+
+
+/* Class selector */
+.upvote{
+    background-color: green;
+}

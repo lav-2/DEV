@@ -1,0 +1,12 @@
+p{
+    line-height: 2;
+}
+h1{
+    letter-spacing: 2px;
+    line-height: normal;
+}
+/* letter spacing */
+/* how characters is spaced */
+h2{
+    letter-spacing: 8px;
+}

@@ -1,0 +1,10 @@
+input[type="text"]{
+    color: red;
+    background-color: aqua;
+}
+input[type="password"]{
+    color: black;
+    font-weight: bold;
+    background-color:#FF6347 ;
+}
+/* This is the example of Attribute selector. */
